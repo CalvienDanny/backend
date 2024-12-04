@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+pickle
+pydantic
+typing_extensions
+uvloop
